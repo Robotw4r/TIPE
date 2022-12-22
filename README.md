@@ -1,15 +1,15 @@
 # P(i)awn
 
-## Description
+### Description
 Projet réalisé dans le cadre du TIPE sciences de l'ingénieur
 
-## Contenu actuel
+### Contenu actuel
 Interface graphique minimal permettant de simuler une partie d'échecs  
 À ajouter:  
 -Changement de mode (IA seule, IA contre joueur)  
 -Connection au système réel
 
-## Installation
+### Installation
 Nécessite python 3 et les modules stockfish et tkinter
 installables avec  
 ```pip install stockfish``` et ```pip install tk``` via l'outil pip.
