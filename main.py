@@ -1,14 +1,15 @@
 from stockfish import Stockfish
 from tkinter import *
+import settings
 
-stockfish = Stockfish(path="/usr/games/stockfish")
+stockfish = Stockfish(path=settings.stockfishBin)
 
 autoMode = True
 
 def updateBoard():
     move = [stockfish.get_best_move()]
     stockfish.make_moves_from_current_position(move)
-    return stockfish.get_board_visual()
+    return stockfish.get_board_visual(self)
 '''
 def updateManual():
     playermove = [pièce]
