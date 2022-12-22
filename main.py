@@ -9,7 +9,7 @@ autoMode = True
 def updateBoard():
     move = [stockfish.get_best_move()]
     stockfish.make_moves_from_current_position(move)
-    return stockfish.get_board_visual(self)
+    return stockfish.get_board_visual()
 '''
 def updateManual():
     playermove = [pièce]
