@@ -1,6 +1,6 @@
 # P(i)awn
 
-<img src="logoarmgrade.png" alt="drawing" width="200"/>
+<img src="logoarmgrade.png" alt="drawing" width="300"/>
 
 ### Description
 Projet réalisé dans le cadre du TIPE sciences de l'ingénieur
