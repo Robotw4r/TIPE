@@ -1,6 +1,7 @@
 # P(i)awn
 
 ![alt text](https://raw.githubusercontent.com/Robotw4r/TIPE/master/logoarmgrade.png)
+<img src="logoarmgrade.png" alt="drawing" width="50"/>
 
 ### Description
 Projet réalisé dans le cadre du TIPE sciences de l'ingénieur
