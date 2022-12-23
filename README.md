@@ -1,4 +1,4 @@
-# P(i)awn
+# GARR-E
 
 <img src="logoarmgrade.png" alt="drawing" width="300"/>
 
