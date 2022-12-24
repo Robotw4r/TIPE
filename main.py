@@ -1,4 +1,5 @@
 from stockfish import Stockfish
+#from tk import *
 from tkinter import *
 import settings
 
