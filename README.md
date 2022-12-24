@@ -16,4 +16,4 @@ Nécessite python 3 et les modules stockfish et tkinter
 installables avec  
 ```pip install stockfish``` et ```pip install tk``` via l'outil pip.
 Nécessite Stockfish obtenable [ici](https://stockfishchess.org/download/)
-Il faut remplacer le lien vers le binaire stockfish par l'emplacement sur votre ordinateur dans le fichier `settings.py`.
+Il faut suffit de lancer le fichier python correspondant à votre système d'exploitation (pour windows modifier le lien vers le .exe)
